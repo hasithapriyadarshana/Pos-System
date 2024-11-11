@@ -1,0 +1,14 @@
+*{
+    font-family: "Roboto Light";
+    font-size: 18px;
+
+}
+.header-text{
+    text-align: center;
+    font-family: "Roboto Light";
+
+    text-transform:uppercase;
+}
+form input:focus{
+   boder:1px sloid balck !important;
+}
